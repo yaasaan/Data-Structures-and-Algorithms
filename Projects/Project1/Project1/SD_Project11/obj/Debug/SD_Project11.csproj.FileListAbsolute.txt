@@ -1,0 +1,7 @@
+E:\_Project\CSharp\SD_Project11\SD_Project11\bin\Debug\SD_Project11.exe.config
+E:\_Project\CSharp\SD_Project11\SD_Project11\bin\Debug\SD_Project11.exe
+E:\_Project\CSharp\SD_Project11\SD_Project11\bin\Debug\SD_Project11.pdb
+E:\_Project\CSharp\SD_Project11\SD_Project11\obj\Debug\SD_Project11.csprojAssemblyReference.cache
+E:\_Project\CSharp\SD_Project11\SD_Project11\obj\Debug\SD_Project11.csproj.CoreCompileInputs.cache
+E:\_Project\CSharp\SD_Project11\SD_Project11\obj\Debug\SD_Project11.exe
+E:\_Project\CSharp\SD_Project11\SD_Project11\obj\Debug\SD_Project11.pdb
